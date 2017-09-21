@@ -1,7 +1,6 @@
 # Jillian Pihulak
 
 pihulakj@oregonstate.edu
-test
 ### Summary  
 An undeclared student trying to figure things out.
 
