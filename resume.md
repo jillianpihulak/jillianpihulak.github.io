@@ -14,6 +14,8 @@ An undeclared student just trying to figure things out. :metal:
 >“Life is either a daring adventure or nothing at all.”
 >-Helen Keller
 
+>"Not all those who wander are lost"
+>-J. R. R. Tolkien
 ### Work Experience
 
 * Go! Games and Toys (Happy Valley, Oregon)  
