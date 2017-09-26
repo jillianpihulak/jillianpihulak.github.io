@@ -21,15 +21,17 @@ An undeclared student just trying to figure things out. :metal:
 
 ### Work Experience
 
-* Go! Games and Toys (Happy Valley, Oregon)
+* Go! Games and Toys (Happy Valley, Oregon)  
   **Associate** (August - September 2017)
 
 ### Education
 
-* Oregon State University (Corvallis, Oregon)
+* Oregon State University (Corvallis, Oregon)  
   *University Exploratory Studies Program* (Fall 2016 - Present)
-* Clackamas High School (Clackamas, Oregon)
+* Clackamas High School (Clackamas, Oregon)  
   (Fall 2012 - Spring 2016)
+* Sabin Schellenberg Professional Technical Center (Milwaulkie, Oregon)  
+(Fall 2012 - Spring 2016)
 
 #### Relevant Coursework
 
