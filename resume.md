@@ -8,12 +8,13 @@
 pihulakj@oregonstate.edu
 
 ##### Links
-[Online Art Portfolio](http://jillianpihulak.weebly.com/)
+[Online Art Portfolio](http://jillianpihulak.weebly.com/)  
+[Oregon State University College of Earth, Ocean, and Atmospheric Science](http://ceoas.oregonstate.edu/)
 
 ### Summary
 An undeclared student just trying to figure things out. :metal:
 
->“Life is either a daring adventure or nothing at all.”
+>“Life is either a daring adventure or nothing at all.”  
 >-Helen Keller
 
 
