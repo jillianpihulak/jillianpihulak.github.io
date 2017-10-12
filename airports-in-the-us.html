@@ -5,9 +5,7 @@
     <title>Airports in the United States (2016)</title>
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.2.0/dist/leaflet.css"/>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css"/>
-    <link rel="stylesheet" href="css/main.css" />
-    <link href="leaflet-search.css"/>
-
+   <!-- <link rel="stylesheet" href="css/main.css" /> -->
     <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
     <script src="https://unpkg.com/leaflet@1.2.0/dist/leaflet.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet-ajax/2.1.0/leaflet.ajax.min.js"></script>
@@ -30,10 +28,11 @@
         detectRetina: true, //Retina Display support
         attribution: 'Airports in the United States Data (2016) &copy; USGS | United States Map &copy; Mike Bostock, D3 | Base Map &copy; CartoDB'
     }).addTo(mymap);
-
+    L.tileLayer('http://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}.png').addTo(mymap);
     //Airport Data
     var airports = null;
-    airports = L.geoJson.ajax("assets/airports.geojson");
+    airports = L.geoJson.ajax("airports.geojson");
+    airports.addTo(mymap);
 /*
     var searchLayer = L.layerGroup().addTo(map);
     //... adding data in searchLayer ...
@@ -41,7 +40,7 @@
     //searchLayer is a L.LayerGroup contains searched markers
 */
 
-    L.tileLayer('http://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}.png').addTo(mymap);
+
 
     var colors = chroma.scale('Set2')
 </script>
