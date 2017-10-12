@@ -38,11 +38,16 @@
     //... adding data in searchLayer ...
     map.addControl(new L.Control.Search({layer: searchLayer}) );
     //searchLayer is a L.LayerGroup contains searched markers
-*/
-
-
-
     var colors = chroma.scale('Set2')
+*/
+    // 4. build up a set of colors from colorbrewer's "set2" category
+    var colors = chroma.scale('Set2').mode('lch').colors(9);
+
+    // 5. dynamically append style classes to this page. This style classes will be used for colorize the markers.
+    for (i = 0; i < 9; i++) {
+        $('head').append($("<style> .marker-color-" + (i + 1).toString() + " { color: " + colors[i] + "; font-size: 15px; text-shadow: 0 0 3px #ffffff;} </style>"));
+    }
+
 </script>
 
 </body>
