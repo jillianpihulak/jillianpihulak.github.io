@@ -23,7 +23,8 @@ An geography and geospatial science student just trying to figure things out. :m
 
 ### Work Experience
 
-* Oregon State Library and Press (Corvallis, Oregon)  
+* Oregon State Library and Press (Corvallis, Oregon)
+
  **Atlas of the Pacific Northwest Intern** (March 2018 - Present)
 
 * Go! Games and Toys (Happy Valley, Oregon)  
