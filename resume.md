@@ -13,7 +13,7 @@ pihulakj@oregonstate.edu
 [Oregon State University College of Earth, Ocean, and Atmospheric Science](http://ceoas.oregonstate.edu/)
 
 ### Summary
-An undeclared student just trying to figure things out. :metal:
+An geography and geospatial science student just trying to figure things out. :metal:
 
 >“Life is either a daring adventure or nothing at all.”  
 >-Helen Keller
@@ -22,6 +22,9 @@ An undeclared student just trying to figure things out. :metal:
 
 
 ### Work Experience
+
+* Oregon State Library and Press (Corvallis, Oregon)
+ **Atlas of the Pacific Northwest Intern** (March 2018 - Present)
 
 * Go! Games and Toys (Happy Valley, Oregon)  
   **Associate** (August - September 2017)
@@ -41,4 +44,5 @@ Course | Term
 -------|-------
 GEOG 201| Fall 2016
 CS 160 | Fall 2016
-MTH 251 | Fall 2017
+GEOG 360 | Spring 2018
+
